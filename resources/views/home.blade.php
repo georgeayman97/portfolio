@@ -144,7 +144,8 @@
 
                     <p>
                         <a href="#section-contact" class="btn btn-primary px-4 py-2 btn-sm smoothscroll">Contact Me</a>
-                        <a href="#" class="btn btn-secondary px-4 py-2 btn-sm">Download CV</a>
+                        <a href="{{ asset('assets/cv/George_Attalla_CV.pdf') }}"
+                           class="btn btn-secondary px-4 py-2 btn-sm">Download CV</a>
                     </p>
                 </div>
             </div>
